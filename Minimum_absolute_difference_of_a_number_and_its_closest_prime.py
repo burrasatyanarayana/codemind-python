@@ -7,6 +7,7 @@ def prime(j):
     return True
      
 k=int(input())
+
 for i in range(k,1,-1):
     s=prime(i)
     if s==True:
