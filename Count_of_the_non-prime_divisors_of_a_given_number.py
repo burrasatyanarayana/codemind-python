@@ -19,4 +19,3 @@ for i in l:
         k.remove(i)
 
 print(len(k))
-        
