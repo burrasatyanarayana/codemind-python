@@ -31,5 +31,3 @@ for i in range(n):
     else:
         print(z)
             
-    
-    
