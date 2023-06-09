@@ -1,0 +1,10 @@
+n=input()
+m=input()
+z=[]
+h=n+m
+x=h.split()
+a=''.join(x)
+d=list(a)
+d.sort()
+s=''.join(d)
+print(s)
